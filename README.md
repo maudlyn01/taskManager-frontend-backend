@@ -6,7 +6,7 @@ Um sistema simples de gerenciamento de tarefas com frontend e backend integrados
 
 ### 🖥️ Frontend
 - React
-- JavaScript e TypeScript
+- TypeScript
 - Fetch API
 - TailwindCSS
 
