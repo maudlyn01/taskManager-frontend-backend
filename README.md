@@ -1,14 +1,14 @@
 # 📋 Task Manager
 
-Um sistema simples de gerenciamento de tarefas com frontend e backend integrados. Permite criar, listar, editar e excluir tarefas com persistência em banco de dados MongoDB.
+Um sistema simples de gerenciamento de tarefas com frontend e backend integrados. Permite criar, listar e excluir tarefas com persistência em banco de dados MongoDB.
 
 ## 🧩 Tecnologias Usadas
 
 ### 🖥️ Frontend
 - React
-- JavaScript (ou TypeScript)
+- JavaScript e TypeScript
 - Fetch API
-- CSS (ou Tailwind, caso esteja usando)
+- TailwindCSS
 
 ### 🖧 Backend
 - Node.js
